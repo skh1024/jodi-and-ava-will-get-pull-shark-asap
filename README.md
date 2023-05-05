@@ -1,6 +1,6 @@
 # jodi-will-get-pull-shark-asap
 lalalalalalalalalala 
-
+yay
 We're no strangers to love
 You know the rules and so do I (do I)
 A full commitment's what I'm thinking of
@@ -13,7 +13,7 @@ Never gonna run around and desert you
 Never gonna make you cry
 Never gonna say goodbye
 Never gonna tell a lie and hurt you
-We've known each other for so long
+We've known each other for so long yay again again
 Your heart's been aching, but you're too shy to say it (say it)
 Inside, we both know what's been going on (going on)
 We know the game and we're gonna play it
@@ -55,3 +55,5 @@ Never gonna run around and desert you
 Never gonna make you cry
 Never gonna say goodbye
 Never gonna tell a lie and hurt you
+
+yay again
